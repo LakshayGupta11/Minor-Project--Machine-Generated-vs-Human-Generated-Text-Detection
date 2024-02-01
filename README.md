@@ -19,8 +19,6 @@ The project uses a variety of machine learning techniques, such as natural langu
 - The objective of this project is to develop an efficient and accurate text detection system that can distinguish between human and machine-generated text. This system will employ cutting-edge natural language processing (NLP) techniques, machine
 learning algorithms, and deep neural networks to analyze and classify text data. By doing so, it will contribute to enhancing the digital ecosystem's authenticity and security.
 
--This introductory phase will provide an overview of the project's significance, objectives, and methodologies. Subsequent sections will delve into the theoretical foundations, dataset preparation, model development, and evaluation metrics, offering a comprehensive insight into the journey of creating a robust "Machine Generated Text Detection" solution. Ultimately, this project seeks to provide a valuable contribution to the ongoing efforts to safeguard the integrity of textual information in an AI-driven world.
-
 ## Built with 🛠️
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
