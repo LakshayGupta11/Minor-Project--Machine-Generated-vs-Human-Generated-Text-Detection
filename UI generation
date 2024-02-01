@@ -1,0 +1,33 @@
+import streamlit as st
+import pandas as pd
+import pickle
+import numpy as np
+import tensorflow as tf
+
+from sentence_transformers import SentenceTransformer
+model1 = SentenceTransformer('all-MiniLM-L6-v2') 
+
+model = pickle.load(open('/content/drive/MyDrive/[pkl file name here]', 'rb'))
+
+def transform_text(text):
+  sent = model1.encode(text)
+  split_data = pd.DataFrame(sent.tolist())
+  new_shape = (-1, 384) 
+  reshaped_data = tf.reshape(split_data, new_shape)
+  return reshaped_data
+
+st.title("Human Vs Machine Generated Text Detection")
+
+input_text = st.text_area("Enter the text")
+
+if st.button('Detect'):
+  vectored_text = transform_text(input_text)
+
+  result = model.predict(vectored_text)
+ # st.header(result[0][0])
+  value = result[0][0]*100
+  col1, col2 = st.columns(2)
+  col1.write("Human Generated")
+  col1.write(value)
+  col2.write("Machine Generated")
+  col2.write(100-value)
