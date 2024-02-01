@@ -26,4 +26,7 @@ This introductory phase will provide an overview of the project's significance, 
 <code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/pytorch/pytorch/39fa0b5d0a3b966a50dcd90b26e6c36942705d6d/docs/source/_static/img/pytorch-logo-dark.svg"></code>
+<code><img height="30" src="https://github.com/LakshayGupta11/Minor-Project--Machine-Generated-vs-Human-Generated-Text-Detection/assets/140741956/2871ea02-c557-4b05-b0cd-a54b19419ce5"></code>
+<code><img height="30" src="https://github.com/LakshayGupta11/Minor-Project--Machine-Generated-vs-Human-Generated-Text-Detection/assets/140741956/dccd0736-90d8-4c4a-91b7-a4ae6ba5faf8"></code>
+<code><img height="30" src="https://github.com/LakshayGupta11/Minor-Project--Machine-Generated-vs-Human-Generated-Text-Detection/assets/140741956/ad5eba75-952d-4567-8fa5-8e1adeea3c6d"></code>
 
