@@ -176,3 +176,16 @@ In our text detection model, the Average layer can be applied after obtaining em
 
 - Supporting research on machine-generated text: As machine-generated text continues to advance, there is a need for more research on its impact and potential applications. By developing a machine-generated text detection system, we can contribute to this research and help advance our understanding of the capabilities and limitations of these models.
 
+## Results
+
+For the bellow article, the model was tested and it showed the following results:
+(https://www.theguardian.com/australia-news/2024/jan/22/australian-wildlife-threatened-species-list-record-added-2023)
+
+![test 1](https://github.com/LakshayGupta11/Minor-Project--Machine-Generated-vs-Human-Generated-Text-Detection/assets/140741956/838c22fe-83c9-4b37-807e-77235b84ea00)
+
+whereas when this issue was given as ChatGpt prompt the following results were obtained:
+
+![test 2](https://github.com/LakshayGupta11/Minor-Project--Machine-Generated-vs-Human-Generated-Text-Detection/assets/140741956/89dbde28-351a-4a8e-bac2-a7bf7db94f94)
+
+
+
