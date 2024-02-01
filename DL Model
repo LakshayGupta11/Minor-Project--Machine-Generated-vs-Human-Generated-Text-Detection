@@ -1641,7 +1641,7 @@
       "cell_type": "code",
       "source": [
         "import pickle\n",
-        "pickle.dump(model, open('testmodel.pkl', 'wb'))"
+        "pickle.dump(model, open('model.pkl', 'wb'))"
       ],
       "metadata": {
         "id": "7mZ6ZC3Q3CUK"
